@@ -13,6 +13,7 @@
 		A9D4A0DC24DA3D020056A51A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9D4A0DA24DA3D020056A51A /* Main.storyboard */; };
 		A9D4A0DE24DA3D030056A51A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9D4A0DD24DA3D030056A51A /* Assets.xcassets */; };
 		A9D4A0E124DA3D030056A51A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9D4A0DF24DA3D030056A51A /* LaunchScreen.storyboard */; };
+		A9D4A0E924DA3F750056A51A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D4A0E824DA3F750056A51A /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A9D4A0DD24DA3D030056A51A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9D4A0E024DA3D030056A51A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A9D4A0E224DA3D030056A51A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9D4A0E824DA3F750056A51A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A9D4A0D424DA3D020056A51A /* AppDelegate.swift */,
 				A9D4A0D624DA3D020056A51A /* SceneDelegate.swift */,
 				A9D4A0D824DA3D020056A51A /* ViewController.swift */,
+				A9D4A0E824DA3F750056A51A /* LoginViewController.swift */,
 				A9D4A0DA24DA3D020056A51A /* Main.storyboard */,
 				A9D4A0DD24DA3D030056A51A /* Assets.xcassets */,
 				A9D4A0DF24DA3D030056A51A /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9D4A0E924DA3F750056A51A /* LoginViewController.swift in Sources */,
 				A9D4A0D924DA3D020056A51A /* ViewController.swift in Sources */,
 				A9D4A0D524DA3D020056A51A /* AppDelegate.swift in Sources */,
 				A9D4A0D724DA3D020056A51A /* SceneDelegate.swift in Sources */,
